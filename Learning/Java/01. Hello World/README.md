@@ -2,11 +2,9 @@
 
 - [Description](#1-description)
 - [Environment Setup](#2-environment-setup)
-<<<<<<< HEAD
+
    - [Creating the Project](#21-creating-the-project)
-=======
-  - [Creating the Project](#21-creating-the-project)
->>>>>>> origin/main
+
 - [How to Build and Run](#3-how-to-build-and-run)
 - [Summary](#4-summary)
 
@@ -52,7 +50,6 @@ Requirements:
 
 5. **Expected Console Output**: Upon running, the console should display "Hello, World!".
 
-<<<<<<< HEAD
    ![Screenshot](../../assets/images/Java/01.screenshot.png)
 
 6. **Create a GUI Version**: Extend the program to include a GUI version by adding the following code:
@@ -78,7 +75,6 @@ Requirements:
 
    ![Screenshot](../../assets/images/Java/02.screenshot.png)
 
-=======
 6. **Create a GUI Version**: Extend the program to include a GUI version by adding the following code:
    ```java
    // Advancing the Console, Hello, World into a GUI app
@@ -100,7 +96,6 @@ Requirements:
 
 7. **Expected GUI Output**: The application should display a window with the message "Hello, World!" centered within it.
 
->>>>>>> origin/main
 ### 3. How to Build and Run
 
 1. Open a terminal in the directory containing `HelloWorld.java`.
