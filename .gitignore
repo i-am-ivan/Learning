@@ -1,0 +1,6 @@
+# Ignore all .idea directories
+.idea/
+./idea/workspace.xml
+
+# Ignore all node_modules directories
+node_modules/
